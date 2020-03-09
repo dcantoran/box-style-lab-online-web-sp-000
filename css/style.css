@@ -32,7 +32,7 @@ h4.amiable {
 }
 
 h4.amiable:hover {
-  background: linear-gradient(to right, #66ee88, #118833);
+  background: linear-gradient(to right, rgb(106, 234, 138), rgb(28, 136, 56));
 }
 
 .amiable {
