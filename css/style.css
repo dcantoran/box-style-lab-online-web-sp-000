@@ -24,7 +24,7 @@ h4 {
   display: inline-block;
   padding: 5px;
   margin: 20px 0 0 0;
-  background: linear-gradient(to right, rgb(34, 70, 128), rgb(255, 130, 55));
+  /*background: linear-gradient(to right, rgb(34, 70, 128), rgb(255, 130, 55));*/
 }
 
 h4.amiable {
